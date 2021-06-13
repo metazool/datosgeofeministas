@@ -14,4 +14,8 @@ Upload the resulting .docx to [DeepL](https://www.deepl.com/translator)
 
 Paste the resulting doc into [Google Docs](https://docs.google.com/document/d/1Ee81bssn8CSdRRD2RhlYoNy10r0jhpk1niz8l59VpPo/edit?usp=sharing)
 
+pandoc output of pdf2html produces a lot of text duplication, tried saving the single-page HTML output with LibreOffice.
+Unfortunately DeepL has a short limit on free translations, so archiving the output here to try from a different network.
+
+
 
